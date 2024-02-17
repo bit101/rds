@@ -1,4 +1,4 @@
-module rds
+module github.com/bit101/rds
 
 go 1.22.0
 
